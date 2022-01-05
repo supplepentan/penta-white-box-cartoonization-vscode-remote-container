@@ -6,7 +6,7 @@ from cartoonize import cartoonize
 from video import video_2_images
 
 def main():
-    video_file = './test_video/test1.mp4'
+    video_file = 'test_video/test1.mp4'
     load_folder = 'test_images'
     save_folder = 'cartoonized_images'
     model_path = 'saved_models'

@@ -38,7 +38,7 @@
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
     // "forwardPorts": [],
     // Use 'postCreateCommand' to run commands after the container is created.
-    "postCreateCommand": "sh setup.sh'; pip install -r requirements.txt",
+    "postCreateCommand": "sh setup.sh",
     "runArgs": [
         "--gpus",
         "all"
