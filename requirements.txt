@@ -1,0 +1,4 @@
+nvidia-pyindex
+nvidia-tensorflow[horovod]
+opencv-python
+tqdm

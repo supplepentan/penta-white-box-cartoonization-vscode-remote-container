@@ -1,0 +1,5 @@
+venv-wsl/
+test_images/
+cartoonized_images/
+__pycache__/
+test_video/
